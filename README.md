@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SATHISH N</h1>
 <h3 align="center">IOT & SOFTWARE DEVELOPER</h3>
 
-- 🎓 I’m currently pursuing B.E ECE **at Bannari Amman institute of technology**
+- 🎓 I’m currently pursuing B.E ECE **in Bannari Amman institute of technology**
 
 - 👨‍💻 All of my projects are available at **https://sathishportfoliowebapp.netlify.app/**
 
