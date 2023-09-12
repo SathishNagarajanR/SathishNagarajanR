@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **https://sathishportfoliowebapp.netlify.app/**
 
-- 🌱 I’m currently learning **C/C++,HTML/CSS**
+- 🌱 I’m currently learning **C/C++,HTML/CSS,JAVASCRIPT**
 
 - 📫 How to reach me **sathishnagarajan16@gmail.com**
 
